@@ -1,4 +1,38 @@
-# diabetes_risk
-  I Asha with my teammates had a keen interest in developing a website using a machine learning project to predict the risk of diabetes based on health data.
-Helps in early detection and preventive healthcare.
- This is the fastest way in analysing the risk prediction before approaching the doctor. once after the confirmation of diabetes one can approach and take the preventive measures 
+
+<h1 align="center">🩺 Diabetes Risk Analysis App</h1>
+
+<p align="center">
+  A simple and intuitive web application to predict the risk of diabetes based on user input using machine learning. Built with Python, HTML, and CSS.
+</p>
+
+---
+
+## 🚀 Live Demo
+
+🌐 [https://diabetes-risk.vercel.app](https://diabetes-risk.vercel.app)
+
+---
+
+## 🔧 Features
+
+- ✅ User-friendly interface for inputting personal health data.
+- ✅ Real-time diabetes risk prediction using a trained ML model.
+- ✅ Responsive design with beautiful CSS styling.
+- ✅ Lightweight and fast deployment.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Backend:** Python (Flask)
+- **Frontend:** HTML, CSS
+- **ML Model:** Trained Diabetes Prediction Model
+- **Deployment:** Vercel
+
+---
+
+## ⚡ Usage
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/ravikiran322/diabetes-risk.git
